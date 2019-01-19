@@ -78,7 +78,7 @@ Quick start
 
 ## Github import
 
-This project was imported into https://github.com/umeshshinde19/cupp by Mebus from:  
+This project was imported into https://github.com/umeshshinde19/cupp by Umesh Shinde from:  
 http://www.remote-exploit.org/content/cupp-3.0.tar.gz  
 http://www.remote-exploit.org/articles/misc_research__amp_code/index.html  
 to encourage further development of the tool.
